@@ -1,0 +1,56 @@
+h2 {
+	color: black;
+	background-color: yellow;
+	text-align: center;
+}
+
+h1 {
+	color: orange;
+	text-align: center;
+	position: fixed;
+}
+
+a[href="https://www.instagram.com/senecalacabra/"] {
+	font-style: italic;
+	font-size: large;
+}
+
+a[href="https://www.facebook.com/SenecaLaCabra/"] {
+	font-style: italic;
+	font-size: large;
+}
+
+body {
+	background-image: url('https://uniandes.edu.co/sites/default/files/seneca-cabra-galeria-2.jpg');
+	background-attachment: fixed;
+	background-size: 1400px;
+	background-position-y: -25px;
+}
+
+.photo {
+	height: 75px;
+	margin-left: 100px;
+}
+
+.photo1 {
+	height: 200px;
+}
+
+.photo2 {
+	height: 155px;
+}
+
+.photo3 {
+	height: 127px;
+}
+
+#columna {
+	background-color: rgba(0, 0, 0, .5);
+	display: block;
+	color: white;
+	margin: 6px;
+}
+
+#columnaFoto {
+	margin: 0px;
+}
